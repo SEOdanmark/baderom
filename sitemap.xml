@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>baderom/index.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/vvs.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/butikk.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/vvs-butikk.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/baderomsbutikk.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/baderomsforhandler.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/baderomsinnredning.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/baderomsmoebler.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/baderomsdesign.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/moderne-baderom.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/privacy-policy.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/feed.xml</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/sitemap.xml</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/sitemap.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>baderom/about-us.html</loc>
+                 <lastmod>2026-11-12T08:42:52+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
